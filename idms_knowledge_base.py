@@ -154,3 +154,5 @@ The ERP ensures full GST compliance by:
             
             "How does IDMS generate GST returns?": "IDMS compiles sales and purchase data to generate GSTR-1 (Outward Supplies), GSTR-3B (Monthly Summary Return), and GSTR-2A (Auto-drafted Inward Supplies Report)."
         }
+
+      
